@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to James Delles's homepage
 
-You can use the [editor on GitHub](https://github.com/jamesdelles/jamesdelles.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm learning to code. I built my first website in the 90s on geocities and have been a bit of a tinkerer ever since. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+On this site, I'll share the resources I'm using, any projects I've put together, and my thoughts. It is my site afterall. 
 
-### Markdown
+### Resources
+-----
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-[Codecademy](https://www.codecademy.com/jamesdelles) Free basic courses. It seems to jump from copy/paste simple coding examples to complex with not much bridge in between. There is a pro version which I will be trying soon as well as tailored "learning paths." I'm working on the data science path now. 
 
-```markdown
-Syntax highlighted code block
+-[Treehouse](https://teamtreehouse.com/jamesdelles) I used this site for a while back in 2016 before life got crazy. 
 
-# Header 1
-## Header 2
-### Header 3
+-[GitHub](https://github.com/jamesdelles) This is virtually brand new for me. I've tried to learn it before, but fell short. This time I'm doing it! This site is built with a unique [markdown code](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), reminds me a bit of old BBcode. 
 
-- Bulleted
-- List
+### Projects
+-----
 
-1. Numbered
-2. List
+None yet. Stay tuned. Unless you count my [hello-world](https://github.com/jamesdelles/hello-world)... and you know what, it counts. :)
 
-**Bold** and _Italic_ and `Code` text
+### Thoughts
+-----
 
-[Link](url) and ![Image](src)
-```
+I have extensive thoughts on education, specifically adult education with respect to keeping tech skills sharp. I'll be adding those soon. But I'd also love to hear from you. Feel free to connect with me here, on [LinkedIn](https://www.linkedin.com/in/jamesdelles/), [Twitter](http://www.twitter.com/jamesdelles), or send an [email](mailto:james.delles@gmail.com). 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jamesdelles/jamesdelles.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
